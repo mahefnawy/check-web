@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+
+  .header__title--bold {
+    font-weight: bold;
+    color: red;
+  }
 }
 
 .App-logo {
